@@ -1,4 +1,4 @@
 # demo
 demo repo
 
-this line is written remotely from xps!
+this line is written remotely from analyst's xps!
